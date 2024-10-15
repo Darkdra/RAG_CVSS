@@ -4,8 +4,8 @@ __pycache__/
 *$py.class
 
 # data
-./data
-./chroma
+data/
+chroma/
 
 # C extensions
 *.so
