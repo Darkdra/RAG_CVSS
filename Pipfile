@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+langchain-ollama = "*"
+langchain-community = "*"
+unstructured = "*"
+sentence-transformers = "*"
+chromadb = "*"
+langchain-chroma = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
